@@ -1,0 +1,14 @@
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\bin\Debug\PhanmemCNPM.exe.config
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\bin\Debug\PhanmemCNPM.exe
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\bin\Debug\PhanmemCNPM.pdb
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Properties.Resources.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.csproj.GenerateResource.cache
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.csproj.CoreCompileInputs.cache
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.exe
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.pdb
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Dangnhap.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Main.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Hoadon.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Nhanvien.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Sanpham.resources
+C:\CNPM\PhanmemCNPM\PhanmemCNPM\obj\Debug\PhanmemCNPM.Qly.resources

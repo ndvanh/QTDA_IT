@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanmemCNPM", "PhanmemCNPM\PhanmemCNPM.csproj", "{141FFA38-2DB0-4049-878E-026E65F98899}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{49CBFD0F-44FA-4E5B-BBBB-F51545FCD54D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{22D2A324-3C89-4B6E-94DC-15FBC80B00DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141FFA38-2DB0-4049-878E-026E65F98899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141FFA38-2DB0-4049-878E-026E65F98899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141FFA38-2DB0-4049-878E-026E65F98899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141FFA38-2DB0-4049-878E-026E65F98899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CBFD0F-44FA-4E5B-BBBB-F51545FCD54D}.Debug|Any CPU.ActiveCfg = Debug
+		{49CBFD0F-44FA-4E5B-BBBB-F51545FCD54D}.Release|Any CPU.ActiveCfg = Release
+		{22D2A324-3C89-4B6E-94DC-15FBC80B00DA}.Debug|Any CPU.ActiveCfg = Debug
+		{22D2A324-3C89-4B6E-94DC-15FBC80B00DA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD6DDC19-71B2-4DF9-9F53-E04F5024654A}
+	EndGlobalSection
+EndGlobal

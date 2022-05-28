@@ -1,2 +1,2 @@
-Đăng nhập bằng tài khoản và mật khẩu cung cấp sẵn
-Lựa chọn các chức năng
+Đăng nhập bằng tài khoản và mật khẩu cung cấp sẵn.
+Lựa chọn các chức năng như quản lý sản phẩm, hóa đơn.

@@ -1,2 +1,31 @@
-Đăng nhập bằng tài khoản và mật khẩu cung cấp sẵn.
-Lựa chọn các chức năng như quản lý sản phẩm, hóa đơn.
+Đăng nhập
+
+Mở phần mềm bằng cách nhấp vào icon trên màn hình máy tính.
+Tiến hành đăng nhập vào phần mềm quản lý siêu thị điện máy HC.
+Sử dụng tài khoản mà mật khẩu dược cấp để đăng nhập hệ thống.
+Nhập tài khoản và mật khẩu vào các ô tương ứng trên màn hình đăng nhập.
+
+ Quản lý sản phẩm
+
+Chọn quản lý sản phẩm.
+Nhập thông tin vào các ô để tìm kiếm sản phẩm.
+Chọn thêm sản phẩm để thêm thông tin sản phẩm.
+Chọn sửa sản phẩm để sửa thông tin sản phẩm.
+Chọn thêm xóa sản phẩm để xóa thông tin sản phẩm.
+
+ Quản lý hóa đơn
+
+Chọn quản lý hóa đơn.
+Nhập thông tin vào các ô để tìm kiếm hóa đơn.
+Chọn thêm hóa đơn để thêm thông tin hóa đơn.
+Chọn sửa hóa đơn để sửa thông tin hóa đơn.
+Chọn thêm xóa hóa đơn để xóa thông tin hóa đơn.
+
+ Báo cáo thống kê
+
+Chọn báo cáo thông kê.
+Nhập thông tin vào các ô để tính toán và thống kê.
+Chọn nút xuất Excel để tạo báo cáo.
+Chọn tính toán để tính doanh thu.
+Chọn tìm kiếm để tìm báo cáo.
+
